@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [TmpSuite]" junit="true" parallel="methods">
+  <test name="TmpTest(failed)" junit="true" parallel="methods" preserve-order="true">
+    <classes>
+      <class name="TestClass1">
+        <methods>
+          <include name="testprincipal"/>
+        </methods>
+      </class> <!-- TestClass1 -->
+    </classes>
+  </test> <!-- TmpTest(failed) -->
+</suite> <!-- Failed suite [TmpSuite] -->

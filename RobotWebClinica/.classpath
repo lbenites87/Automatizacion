@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Clinica/src"/>
+	<classpathentry kind="lib" path="Clinica/dist/Ecomerce_Automation.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/bson-2.13.0.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/controlsfx-8.40.14.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/hamcrest-all-1.3 (2).jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/jdbc-4.10.8.1.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/junit-dataprovider-1.5.0.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/monte-repack-1.0.1.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/poi-3.13.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/poi-ooxml-3.13.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/poi-ooxml-schemas-3.13.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/poi-scratchpad-3.13.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="Clinica/dist/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="Clinica/build/classes"/>
+</classpath>
