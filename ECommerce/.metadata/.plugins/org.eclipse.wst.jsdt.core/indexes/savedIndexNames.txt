@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Robot2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4159129798.index
+99388754.index
+2914839024.index
+3504466533.index
+306586109.index
+3426307243.index

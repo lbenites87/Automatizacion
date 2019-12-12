@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="\&quot;" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="\&quot;"/>
+			<item value="8\&quot;"/>
+			<item value="7\&quot;"/>
+			<item value="6\&quot;"/>
+			<item value="5\&quot;"/>
+			<item value="4\&quot;"/>
+			<item value="3\&quot;"/>
+			<item value="2\&quot;"/>
+			<item value="1\&quot;"/>
+			<item value="NoReconocePlaca.getText().startsWith(&quot;¡Uhmm!&quot;)"/>
+			<item value="NoReconocePlaca.isEnabled()"/>
+			<item value="isDisplayed()"/>
+			<item value="NoReconocePlaca.getText().equals(&quot;¡Uhmm! Por favor, intenta nuevamente ingresar tu placa, lenta y cuidadosamente&quot;)"/>
+			<item value="NoReconocePlaca.isDisplayed()"/>
+			<item value="llena"/>
+		</list>
+		<list key="replacehistory">
+			<item value="&apos;"/>
+			<item value="&quot;+ i +&quot;&apos;"/>
+			<item value="ReconocePlaca"/>
+			<item value="NoReconocePlaca.getText().startsWith(&quot;¡Uhmm!&quot;)"/>
+			<item value="isEnabled()"/>
+			<item value="NoReconocePlaca.isDisplayed()"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="1036" key="DIALOG_X_ORIGIN"/>
+		<item value="298" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
